@@ -17,7 +17,10 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             i have one year of experience building and designing software.
             Currently, i love to work on web applications using technologies
-            like React, Tailwind, Next Js
+            like React, Tailwind, Next Js. A designer and a developer who knows
+            the struggle behind every concept of DSA, although still suck at
+            it.You may mostly find me online on PSN. A slight passion for life
+            and still trying to live it!
           </p>
 
           <div>
